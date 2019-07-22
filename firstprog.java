@@ -9,7 +9,7 @@ public class firstprogram
 		int c = max(a,b);
 	}
 
-	float max(int a, int b)
+	double max(int a, int b)
 	{
 		if(a>b)
 		{
