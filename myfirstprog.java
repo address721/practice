@@ -9,7 +9,11 @@ public class firstprogram
 		int c = max(a,b);
 	}
 
+<<<<<<< HEAD:myfirstprog.java
 	int max(int a, int b)
+=======
+	double max(int a, int b)
+>>>>>>> 2980b958d0dfce8b80953e727d8246d6bd542d98:firstprog.java
 	{
 		if(a>b)
 		{
